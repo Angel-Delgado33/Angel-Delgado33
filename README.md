@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy un estudiante de desarrollo de aplicaciones multiplataforma apasionado por afrontar nuevos retos </p>
+<p align="left">Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma apasionado por afrontar nuevos retos, aprender nuevas tecnologías y seguir mejorando mis habilidades en programación y desarrollo de software.</p>
 
 ###
 
