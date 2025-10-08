@@ -14,6 +14,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 
+<h3 align="left">Tecnologías</h3>
+
+###
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <h3 align="left">Bases de Datos</h3>
 
